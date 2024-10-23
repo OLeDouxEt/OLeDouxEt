@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://github.com/secure-77/secure-77"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLeDouxEt&theme=dark&langs_count=5" />
 
 <!--
 **OLeDouxEt/OLeDouxEt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
