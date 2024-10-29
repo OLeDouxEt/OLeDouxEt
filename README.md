@@ -1,8 +1,5 @@
 
 # More Info to come
-*
-*
-*
 
 <p align="left">
   <a href="https://github.com/OLeDouxEt/OLeDouxEt">
@@ -15,6 +12,8 @@
 ![C#](https://img.shields.io/badge/C%23-6600cc.svg)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0066ff.svg)
 ![PHP](https://img.shields.io/badge/PHP-9999ff.svg)
+
+<!--<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>-->
 
 <!--
 **OLeDouxEt/OLeDouxEt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
